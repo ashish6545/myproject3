@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48205" started-at="2020-07-20T05:03:23Z" finished-at="2020-07-20T05:04:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48205" started-at="2020-07-20T05:03:23Z" finished-at="2020-07-20T05:04:11Z">
+      <class name="june18.FlightBooking">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:june18.FlightBooking@7c16905e]" name="SetUp" is-config="true" duration-ms="16519" started-at="2020-07-20T05:03:06Z" finished-at="2020-07-20T05:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Trip()[pri:1, instance:june18.FlightBooking@7c16905e]" name="Trip" duration-ms="4365" started-at="2020-07-20T05:03:23Z" finished-at="2020-07-20T05:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trip -->
+        <test-method status="PASS" signature="from()[pri:2, instance:june18.FlightBooking@7c16905e]" name="from" duration-ms="5752" started-at="2020-07-20T05:03:27Z" finished-at="2020-07-20T05:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- from -->
+        <test-method status="PASS" signature="To()[pri:3, instance:june18.FlightBooking@7c16905e]" name="To" duration-ms="5477" started-at="2020-07-20T05:03:33Z" finished-at="2020-07-20T05:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To -->
+        <test-method status="PASS" signature="date()[pri:4, instance:june18.FlightBooking@7c16905e]" name="date" duration-ms="3358" started-at="2020-07-20T05:03:38Z" finished-at="2020-07-20T05:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- date -->
+        <test-method status="PASS" signature="Travelleor()[pri:5, instance:june18.FlightBooking@7c16905e]" name="Travelleor" duration-ms="2701" started-at="2020-07-20T05:03:42Z" finished-at="2020-07-20T05:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Travelleor -->
+        <test-method status="PASS" signature="search()[pri:6, instance:june18.FlightBooking@7c16905e]" name="search" duration-ms="5502" started-at="2020-07-20T05:03:44Z" finished-at="2020-07-20T05:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="Filters()[pri:7, instance:june18.FlightBooking@7c16905e]" name="Filters" duration-ms="21013" started-at="2020-07-20T05:03:50Z" finished-at="2020-07-20T05:04:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filters -->
+        <test-method status="PASS" signature="end()[pri:0, instance:june18.FlightBooking@7c16905e]" name="end" is-config="true" duration-ms="1081" started-at="2020-07-20T05:04:11Z" finished-at="2020-07-20T05:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- june18.FlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
