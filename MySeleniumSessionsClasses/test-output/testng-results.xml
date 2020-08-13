@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1277" started-at="2020-07-29T07:42:41Z" finished-at="2020-07-29T07:42:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1277" started-at="2020-07-29T07:42:41Z" finished-at="2020-07-29T07:42:43Z">
+      <class name="july20.TableSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="11" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="7" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12354.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Closed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12355.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="4" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="5" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12356.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12357.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12358.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12359.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="9" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12360.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Open]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="3" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12361.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12362.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12363.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Closed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12364.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="3" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12365.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12366.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[In Progress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="5" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12367.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="3" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12368.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="6" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12369.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[In Progress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="2" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12370.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12371.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12372.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[In Progress]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12373.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="6" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12374.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12375.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ready For Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- july20.TableSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
