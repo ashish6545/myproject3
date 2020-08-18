@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+<testng-results skipped="0" failed="0" ignored="0" total="30" passed="30">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1277" started-at="2020-07-29T07:42:41Z" finished-at="2020-07-29T07:42:43Z">
+  <suite name="Default suite" duration-ms="965" started-at="2020-08-18T05:36:07Z" finished-at="2020-08-18T05:36:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1277" started-at="2020-07-29T07:42:41Z" finished-at="2020-07-29T07:42:43Z">
+    <test name="Default test" duration-ms="965" started-at="2020-08-18T05:36:07Z" finished-at="2020-08-18T05:36:08Z">
       <class name="july20.TableSearch">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="11" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="6" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="7" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="7" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -53,15 +57,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="4" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="5" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -82,11 +78,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="3" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -107,11 +103,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -132,11 +132,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="3" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -157,11 +157,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="9" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -182,11 +182,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="3" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -207,7 +207,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -228,15 +232,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -257,11 +257,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -282,11 +282,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="3" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -307,11 +307,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -332,7 +332,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="5" started-at="2020-07-29T07:42:42Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="6" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -353,15 +357,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:42Z" finished-at="2020-07-29T07:42:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="3" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -382,11 +382,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="6" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -407,11 +407,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="2" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="2" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -432,11 +428,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -457,11 +457,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="1" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -482,11 +482,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="1" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -507,11 +503,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="1" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="6" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -532,11 +528,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@2d928643]" name="setUp" is-config="true" duration-ms="0" started-at="2020-07-29T07:42:43Z" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="0" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@2d928643]" name="loginTest" duration-ms="4" started-at="2020-07-29T07:42:43Z" data-provider="getLogindata" finished-at="2020-07-29T07:42:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:july20.TableSearch@6e1ec318]" name="setUp" is-config="true" duration-ms="19" started-at="2020-08-18T05:36:08Z" finished-at="2020-08-18T05:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:july20.TableSearch@6e1ec318]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
           <params>
             <param index="0">
               <value>
@@ -558,6 +558,136 @@
           </reporter-output>
         </test-method> <!-- loginTest -->
       </class> <!-- july20.TableSearch -->
+      <class name="july20.Addition">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="3" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="2" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="1" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:july20.Addition@7e0b0338]" name="loginTest" duration-ms="0" started-at="2020-08-18T05:36:08Z" data-provider="getLogindata" finished-at="2020-08-18T05:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- july20.Addition -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -22,7 +22,7 @@ public class TableSearch {
 
 		try {
 			ip = new FileInputStream(
-					"E:\\java eclipse selenium + java\\MySeleniumSessionsClasses\\src\\main\\java\\june20thee\\TableConfig.Property");
+					"C:\\Users\\Ashish\\Git\\myproject3\\MySeleniumSessionsClasses\\src\\main\\java\\june20thee\\TableConfig.Property");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
